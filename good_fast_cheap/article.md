@@ -36,7 +36,7 @@ earthlings are invading our sacred homeland under the banner of some dude named
 
 ### Fast & Cheap:
 
-![](good_fast_cheap/example_fast_cheap.png)
+![](example_fast_cheap.png)
 
 This is one way we could go. The Elephants will be ready tomorrow, and it'll
 only cost a 1/2 million bucks. But, there's no guarantee that The Elephants
@@ -46,7 +46,7 @@ contractors.
 
 Okay, fine, let's insist on GOOD.
 
-![](good_fast_cheap/example_good_cheap.png)
+![](example_good_cheap.png)
 
 Alright, now I can sleep better at night. The Elephants are going to perform as
 close to spec as possible, so I can focus on probing the enemy's weaknesses
@@ -56,7 +56,7 @@ seizing our capital
 
 Sigh... let's go with FAST. What's the damage?
 
-![](good_fast_cheap/example_good_fast.png)
+![](example_good_fast.png)
 
 Okay, so we'll have top-quality Cybernetic Attack Elephants AND they'll be ready
 to go tomorrow to give Mr. Musk and his terran hordes what-for. But it's gonna
