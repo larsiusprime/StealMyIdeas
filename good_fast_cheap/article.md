@@ -1,13 +1,14 @@
 # Good, Fast, Cheap: pick 2
 
-## Type of idea: Game Mechanic
+## Game Mechanic
 
 I'm not sure where the term first originated (engineering?) but there's a 
-saying: "Good, Fast, Cheap: pick 2."
+saying:  
+"Good, Fast, Cheap: pick 2."
 
-If you want a GOOD product done FAST, it won't be CHEAP.
-If you want a CHEAP product delivered FAST, it won't be GOOD.
-If you want a GOOD product at a CHEAP price, you won't get it FAST.
+If you want a GOOD product done FAST, it won't be CHEAP.  
+If you want a CHEAP product delivered FAST, it won't be GOOD.  
+If you want a GOOD product at a CHEAP price, you won't get it FAST.  
 
 A lot of games (particularly strategy games) embody this sort of mechanic in
 indirect ways without making it explicit: in a game like StarCraft you can 
