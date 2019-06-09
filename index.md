@@ -10,7 +10,7 @@ that's the entire point of what I'm doing here.
 
 # FAQ
 
-Q: Do I need to credit you?
+Q: Do I need to credit you?  
 A: That'd be nice, but I can't and won't enforce it. If you take one of these
 ideas and turn it into something cool, I ask (but do not require) that you do 
 two things: 1) put a line in the credits like "inspired by an idea from Lars 
@@ -19,7 +19,7 @@ Doucet" or somesuch, and 2) tell me about it so I can check it out!
 Q: Do I need to pay you?  
 A: No. Please STEAL my ideas.
 
-Q: Do you have a Patreon or something? 
+Q: Do you have a Patreon or something?  
 A: [Yes](https://www.patreon.com/larsiusprime), but mostly as a placeholder. 
 If you insist on giving me money, I'll take it, but you can also just by a copy 
 of my game [Defender's Quest](http://www.defendersquest.com/index.html).
