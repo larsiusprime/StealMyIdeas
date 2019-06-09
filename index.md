@@ -8,6 +8,12 @@ So instead of hoarding them until I'm too old (or too dead) to do anything with
 them, I'm just going to write them all up on this site. Feel free to steal them,
 that's the entire point of what I'm doing here.
 
+# Ideas so far
+
+1. [Good, Fast, Cheap: Pick 2](good_fast_cheap/article.md)
+2. (...)
+3. (...)
+
 # FAQ
 
 Q: Do I need to credit you?  
