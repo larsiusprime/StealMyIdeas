@@ -16,7 +16,8 @@ ideas and turn it into something cool, I ask (but do not require) that you do
 two things: 1) put a line in the credits like "inspired by an idea from Lars 
 Doucet" or somesuch, and 2) tell me about it so I can check it out!
 
-Q: Do I need to pay you? 
+Q: Do I need to pay you?
+
 A: No. Please STEAL my ideas.
 
 Q: Do you have a Patreon or something? 
