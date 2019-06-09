@@ -33,7 +33,7 @@ choices.
 
 Okay, I'm King Lars CLXVII of Planet Lars, home of the Lartians. The foul
 earthlings are invading our sacred homeland under the banner of some dude named
-"Musk. Time to deploy the Cybernetic Attack Elephants!
+"Musk." Time to deploy the Cybernetic Attack Elephants!
 
 ### Fast & Cheap:
 
