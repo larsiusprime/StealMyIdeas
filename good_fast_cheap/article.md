@@ -15,8 +15,7 @@ indirect ways without making it explicit: in a game like StarCraft you can
 build a bunch of cheap units very quickly, but they won't be very strong and are
 easily defended against.
 
-This idea is to build an entire game around the Good/Fast/Cheap triangle, AND
-to make that relationship explicit.
+## Example: Research & Engineering in strategy games
 
 Tons of games feature a "research" mechanic where you can unlock new technology
 by investing in research, and a separate "engineering" or "construction"
@@ -29,11 +28,9 @@ build an entire game around this real-life tradeoff, but make it front and
 center to your decision making, not as a buried implicit consequence of other
 choices.
 
-## Example: Research & Engineering in strategy games
-
-Okay, I'm King Lars CLXVII of Planet Lars, home of the Lartians. The foul
-earthlings are invading our sacred homeland under the banner of some dude named
-"Musk." Time to deploy the Cybernetic Attack Elephants!
+Okay, say I'm Emperor Larsius Prime CLXVII of Planet Lars, home of the Lartians. The foul
+earthlings are invading our sacred homeland under the foul banner of some dude named
+"Musk." There's only one thing to do -- deploy the Cybernetic Attack Elephants!
 
 ![](example_fast_cheap.png)
 
@@ -63,3 +60,15 @@ cost us a full million bucks, and wouldn't you know it, with the terrestrial
 war in full blast we're gonna have a hard time getting our hands on any more
 male deer anytime soon. Time for some deficit spending I guess, the motherland
 is worth it!
+
+## Okay, so what?
+
+The whole point of this idea is to build an entire game around the Good/Fast/Cheap
+triangle, AND to make that relationship explicit so that this tradeoff is
+always at the forefront of what the player is deciding about.
+
+This sort of game would de-emphasize decisions like "I guess Zerglings are the
+best choice here," and "I'll invest in double-plated starship hulls even though 
+it makes the ships heavier and cost more". Instead, the focus will be on a smaller
+number of overall choices, any and all of which can come in GOOD/FAST/CHEAP varieties, 
+and make you always think about which two you want in which situations.
