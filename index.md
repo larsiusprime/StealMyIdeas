@@ -10,8 +10,8 @@ that's the entire point of what I'm doing here.
 
 # Ideas so far
 
-2. [Luddites in Space](luddites_in_space/article.md)
-1. [Good, Fast, Cheap: Pick 2](good_fast_cheap/article.md)
+- [Luddites in Space](luddites_in_space/article.md)
+- [Good, Fast, Cheap: Pick 2](good_fast_cheap/article.md)
 
 # FAQ
 
