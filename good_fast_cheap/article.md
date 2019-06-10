@@ -71,4 +71,4 @@ This sort of game would de-emphasize decisions like "I guess Zerglings are the
 best choice here," and "I'll invest in double-plated starship hulls even though 
 it makes the ships heavier and cost more". Instead, the focus will be on a smaller
 number of overall choices, any and all of which can come in GOOD/FAST/CHEAP varieties, 
-and make you always think about which two you want in which situations.
+and make you always think about which two modifiers you want in which situations.
