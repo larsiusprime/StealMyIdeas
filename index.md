@@ -10,8 +10,63 @@ that's the entire point of what I'm doing here.
 
 # Ideas so far
 
-- [Luddites in Space](luddites_in_space/article.md)
 - [Good, Fast, Cheap: Pick 2](good_fast_cheap/article.md)
+- [Luddites in Space](luddites_in_space/article.md)
+
+# TODO:
+
+- Block Broker
+- Barter Royale
+- Dragon Pants series
+- Dragon Pants Royale
+- Ninja Havoc Machines
+- What a Terrible Night for a Curse
+- Insectimon
+- Nils, the Narcoleptic Ninja Norseman
+- Ideas for that PlayData hand-crank gameboy thingy
+- The Little Monster
+  - "My soul is an unreliable narrator"
+  - Bouncy ball mechanics
+- Fun with Literal Translations
+- Sword of Songs
+- The Adventure of Shield Toad
+- Page, Stone, and Blade
+- Procedural Technology
+- Super Energy Apocalypse 2
+- Super Energy Metropolis
+- Strategic Oaths and Boasts
+- 4X space game
+  - Alien species psychology grid
+  - Planetary classification system
+  - Tower defense space battles
+  - Infrastructure system for planetary improvements
+- Super Waluigi RPG: Tennis Tactics
+- ApocaList / DoomsDayPlanner
+- What's Your Zombie Plan
+- Municipal flooding simulator
+- Paranormal Pest Control
+  - Hide & Seek / Light & Dark
+  - Vac & Trap
+  - Haunting / Infestation
+  - Small business vs. The Attorney General
+  - Those Meddling Kids
+- Procedural Debt Labyrinth
+- Dungeon of Healthcare
+- Sandwich Power
+- Final Fantasy Defender's Quest
+- Pokemon Defender's Quest
+- Dragon Quest Defender's Quest
+- Pokemon Auto Chess
+- Final Fantasy Auto Chess
+- Zelda II-2
+- Various thoughts on Alchemy
+- Games about Disability
+  - Narcolepsy / Cataplexy
+  - Tourette's
+  - O.C.D.
+- Intelligence systems (aka Spycraft)
+  - Disinformation / Uncertainty
+  - Security / Zero-day exploits
 
 # FAQ
 
