@@ -3,12 +3,12 @@
 ## Overarching theme
 
 I always thought it was cool that in the 2000's Battlestar Galactica series the 
-human military fleet was reduced to a single Battlestar-class precisely because
-the Galactica was an old rustbucket. You see, once upon a time there was this
-big war with the robotic Cylons, who were adept at hacking computer networks.
-The humans responded with a borderline paranoid design ethos that relied on 
-land-line phones and simple radios for onboard ship communication, using 
-computers only when necessary, and then only with strict 
+human military fleet was reduced to a single Battlestar-class ship precisely 
+because the Galactica was an old rustbucket. You see, once upon a time there was
+this big war with the robotic Cylons, who were adept at hacking computer 
+networks. The humans responded with a borderline paranoid design ethos that 
+relied on land-line phones and simple radios for onboard ship communication, 
+using computers only when necessary, and then only with strict 
 [airgapping](https://en.wikipedia.org/wiki/Air_gap_%28networking%29). The humans
 won the war, and as the years wore on these measures that had once protected 
 them started to grate; widespread networking brought many efficiencies, and the
@@ -19,7 +19,7 @@ exterminate all of humanity. All that's left is that trusty old rust-bucket, the
 Galactica.
 
 There's a cool game idea in here somewhere, and I like the subversive message
-that the ever-forwards march of technology has a lot more downsides than we're
+that the ever-forwards march of technology has a more downsides than we're
 ready to admit.
 
 The term "Luddite" is a general epithet deployed against anyone who has a 
@@ -31,11 +31,11 @@ The Amish are another case of people misunderstanding those with a skeptical
 view of modern technology. For one, [Amish actually do use technology](https://amishamerica.com/do-amish-use-technology/),
 they just have a very strict philosophical basis for deciding which technologies
 they choose to use -- the chief guiding light being avoiding ones likely to 
-disrupt their way of life and damage their communities. Not to mention he Amish 
+disrupt their way of life and damage their communities. Not to mention the Amish 
 are actually [avid inventors!](https://www.dailymail.co.uk/news/article-2366217/Gas-powered-lamps-steam-powered-ice-cream-makers--The-ingenious-solutions-Amish-use-bring-modern-technology-lives.html)
 
 This is a large overarching idea rather than a specific game mechanic, but 
-here's a concrete ideas that I might expand on later:
+here's some concrete ideas that I might expand on later:
 
 ## Security War
 
