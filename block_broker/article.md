@@ -1,4 +1,4 @@
-#Block Broker
+# Block Broker
 
 Tetris 99, but you can bid for pieces you need and sell ones you don't. 
 "My kingdom for a long piece!"
@@ -103,8 +103,9 @@ Tetris, you have literally no recourse to getting pieces from anywhere else. In
 Block Broker, we have the market as a way to get pieces that you need.
 
 And this is where things get interesting.
+ 
+# So What?
 
-#So What
 We can now create all number of interesting and/or pathological simulations. We
 could create a game where 99 players compete with one another, all get a mostly
 reasonable mix of pieces, and just see what happens when they can also trade.
