@@ -40,6 +40,7 @@ that's the entire point of what I'm doing here.
   - Planetary classification system
   - Tower defense space battles
   - Infrastructure system for planetary improvements
+  - Military exercises
 - Super Waluigi RPG: Tennis Tactics
 - ApocaList / DoomsDayPlanner
 - What's Your Zombie Plan
