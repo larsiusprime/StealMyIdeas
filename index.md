@@ -13,6 +13,7 @@ that's the entire point of what I'm doing here.
 - [Good, Fast, Cheap: Pick 2](good_fast_cheap/article.md)
 - [Luddites in Space](luddites_in_space/article.md)
 - [Block Broker](block_broker/article.md)
+- [Blobble Royale](blobble_royale/article.md)
 
 # TODO:
 
